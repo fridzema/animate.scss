@@ -65,91 +65,80 @@ The mixin includes configurable options to customize the `delay`, `count` `durat
 ## Posible Animations
 
 ```
-@_bounce();
-@_flash();
-@_pulse
-@_rubberBand
-@_shake
-@_swing
-@_tada
-@_wobble
-@_bounceIn
-@_bounceInDown
-@_bounceInLeft
-@_bounceInRight
-@_bounceInUp
-@_bounceOut
-@_bounceOutDown
-@_bounceOutLeft
-@_bounceOutRight
-@_bounceOutUp
-@_fadeIn
-@_fadeInDown
-@_fadeInDownBig
-@_fadeInLeft
-@_fadeInLeftBig
-@_fadeInRight
-@_fadeInRightBig
-@_fadeInUp
-@_fadeInUpBig
-@_fadeOut
-@_fadeOutDown
-@_fadeOutDownBig
-@_fadeOutLeft
-@_fadeOutLeftBig
-@_fadeOutRight
-@_fadeOutRightBig
-@_fadeOutUp
-@_fadeOutUpBig
-@_flip
-@_flipInX
-@_flipInY
-@_flipOutX
-@_flipOutY
-@_lightSpeedIn
-@_lightSpeedOut
-@_rotateIn
-@_rotateInDownLeft
-@_rotateInDownRight
-@_rotateInUpLeft
-@_rotateInUpRight
-@_rotateOut
-@_rotateOutDownLeft
-@_rotateOutDownRight
-@_rotateOutUpLeft
-@_rotateOutUpRight
-@_slideInDown
-@_slideInLeft
-@_slideInRight
-@_slideInUp
-@_slideOutDown
-@_slideOutLeft
-@_slideOutRight
-@_slideOutUp
-@_hinge
-@_rollIn
-@_rollOut
-@_zoomIn
-@_zoomInDown
-@_zoomInLeft
-@_zoomInRight
-@_zoomInUp
-@_zoomOut
-@
-@
-@
-@
-@
-@
-@
-@
-@
-@
-@
-@
-@
-@
-
+@include bounce();
+@include flash();
+@include pulse();
+@include rubberBand();
+@include shake();
+@include swing();
+@include tada();
+@include wobble();
+@include bounceIn();
+@include bounceInDown();
+@include bounceInLeft();
+@include bounceInRight();
+@include bounceInUp();
+@include bounceOut();
+@include bounceOutDown();
+@include bounceOutLeft();
+@include bounceOutRight();
+@include bounceOutUp();
+@include fadeIn();
+@include fadeInDown();
+@include fadeInDownBig();
+@include fadeInLeft();
+@include fadeInLeftBig();
+@include fadeInRight();
+@include fadeInRightBig();
+@include fadeInUp();
+@include fadeInUpBig();
+@include fadeOut();
+@include fadeOutDown();
+@include fadeOutDownBig();
+@include fadeOutLeft();
+@include fadeOutLeftBig();
+@include fadeOutRight();
+@include fadeOutRightBig();
+@include fadeOutUp();
+@include fadeOutUpBig();
+@include flip();
+@include flipInX();
+@include flipInY();
+@include flipOutX();
+@include flipOutY();
+@include lightSpeedIn();
+@include lightSpeedOut();
+@include rotateIn();
+@include rotateInDownLeft();
+@include rotateInDownRight();
+@include rotateInUpLeft();
+@include rotateInUpRight();
+@include rotateOut();
+@include rotateOutDownLeft();
+@include rotateOutDownRight();
+@include rotateOutUpLeft();
+@include rotateOutUpRight();
+@include slideInDown();
+@include slideInLeft();
+@include slideInRight();
+@include slideInUp();
+@include slideOutDown();
+@include slideOutLeft();
+@include slideOutRight();
+@include slideOutUp();
+@include hinge();
+@include rollIn();
+@include rollOut();
+@include zoomIn();
+@include zoomInDown();
+@include zoomInLeft();
+@include zoomInRight();
+@include zoomInUp();
+@include zoomOut();
+@include zoomOutDown();
+@include zoomOutLeft();
+@include zoomOutRight();
+@include zoomOutUp();
 ```
 
 
